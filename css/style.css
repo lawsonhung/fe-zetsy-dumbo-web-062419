@@ -1,8 +1,13 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-@import url('../fonts/Baskerville.ttc')
-@font-face
+/* Preserving test code below
+@import url('../fonts/Baskerville.ttc') */
+
+@font-face {
+  font-family: 'Baskerville';
+  src: '../fonts/Baskerville.ttc'
+}
 
 /*////////// Global Styles //////////*/
 
