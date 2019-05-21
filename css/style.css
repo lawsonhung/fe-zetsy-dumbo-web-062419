@@ -1,14 +1,7 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-/* Preserving test code below
-@import url('../fonts/Baskerville.ttc'); */
 @import url('../fonts/Baskerville.ttc');
-
-/*@font-face {*/
-/*  font-family: 'Baskerville';*/
-/*  src: url(../fonts/Baskerville.ttc);*/
-/*}*/
 
 /*////////// Global Styles //////////*/
 
@@ -28,7 +21,7 @@ body {
 /* Write all remaining styles here */
 
 h1 {
-  font: normal 70px 'Times New Roman', serif;
+  font: normal 5em 'Times New Roman', serif;
 }
 
 /*////////// LAYOUT //////////*/
