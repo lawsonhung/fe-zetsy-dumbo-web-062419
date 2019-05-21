@@ -79,6 +79,15 @@ header a:hover {
   text-decoration: underline;
 }
 
+#press {
+  margin-bottom: 20px;
+}
+
+#press img {
+  border: 5px #CCC solid;
+  padding: 1px;
+}
+
 footer {
   font-size: 0.8em;
   text-align: right;
