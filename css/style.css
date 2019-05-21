@@ -58,7 +58,8 @@ p {
 /*////////// SECTION STYLES //////////*/
 
 header a {
-  color: ;
+  color: #93AEA6;
+  text-decoration: none;
 }
 
 header a:hover {
