@@ -71,7 +71,12 @@ header a:hover {
 }
 
 #featured a {
-  color: ;
+  color: #0081C0;
+  text-decoration: none;
+}
+
+#featured a:hover {
+  text-decoration: underline;
 }
 
 footer {
