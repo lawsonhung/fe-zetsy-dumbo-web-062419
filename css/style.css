@@ -70,7 +70,9 @@ header a:hover {
   border: 5px #93AEA6 solid;
 }
 
-
+#featured a {
+  color: ;
+}
 
 footer {
   font-size: 0.8em;
