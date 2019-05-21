@@ -2,12 +2,13 @@
 
 /* link the web font used for the level 1 heading here */
 /* Preserving test code below
-@import url('../fonts/Baskerville.ttc') */
+@import url('../fonts/Baskerville.ttc'); */
+@import url('../fonts/Baskerville.ttc');
 
-@font-face {
-  font-family: 'Baskerville';
-  src: url(../fonts/Baskerville.ttc);
-}
+/*@font-face {*/
+/*  font-family: 'Baskerville';*/
+/*  src: url(../fonts/Baskerville.ttc);*/
+/*}*/
 
 /*////////// Global Styles //////////*/
 
