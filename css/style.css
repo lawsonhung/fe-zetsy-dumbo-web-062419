@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: 'Baskerville';
-  src: url('../fonts/Baskerville.ttc');
+  src: url(../fonts/Baskerville.ttc);
 }
 
 /*////////// Global Styles //////////*/
@@ -27,7 +27,7 @@ body {
 /* Write all remaining styles here */
 
 h1 {
-  font: normal 5em 'Barskerville', serif;
+  font: normal 5em 'Baskerville', serif;
 }
 
 /*////////// LAYOUT //////////*/
