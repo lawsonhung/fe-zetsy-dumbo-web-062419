@@ -1,7 +1,9 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
+/* Preserving code that did not work properly below
 @import url('../fonts/Baskerville.ttc');
+*/
 
 @font-face {
   font-family: Baskerville;
