@@ -57,6 +57,9 @@ p {
 
 /*////////// SECTION STYLES //////////*/
 
+header a:hover {
+  color: #DDD;
+}
 
 footer {
   font-size: 0.8em;
