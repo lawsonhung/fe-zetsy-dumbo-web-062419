@@ -44,6 +44,12 @@ h1 {
 
 h2 {
   color: #6C807A;
+  font-size: 2em;
+}
+
+p {
+  color: #555;
+  font-size: 1em;
 }
 
 footer {
