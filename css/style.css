@@ -57,8 +57,12 @@ p {
 
 /*////////// SECTION STYLES //////////*/
 
+header a {
+  color: ;
+}
+
 header a:hover {
-  color: #DDD;
+  color: #6C807A;
 }
 
 footer {
