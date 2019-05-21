@@ -1,7 +1,7 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-@import url('../fonts/Baskerbille.ttc')
+@import url('../fonts/Baskerville.ttc')
 
 /*////////// Global Styles //////////*/
 
@@ -21,7 +21,7 @@ body {
 /* Write all remaining styles here */
 
 h1 {
-  font: normal 5em  ;
+  font: normal 5em '' ;
 }
 
 /*////////// LAYOUT //////////*/
